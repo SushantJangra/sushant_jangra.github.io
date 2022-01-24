@@ -18,8 +18,10 @@ GPA 8.80
  
 ## Internship 
 ### **Junior Data Scientist**
-at <a href="https://zummitlabs.com/">Zummit Infolabs</a>
+<a href="https://zummitlabs.com/">Zummit Infolabs</a>
+
 Working with the experienced team on real time projects based on Artificial Intelligence.
+Project : Prostate Cancer Detection
 
 ## Certifications
 - Artificial Intelligence Engineer <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
