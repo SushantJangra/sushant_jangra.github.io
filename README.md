@@ -22,17 +22,17 @@ at <a href="https://zummitlabs.com/">Zummit Infolabs</a>
 Working with the experienced team on real time projects based on Artificial Intelligence.
 
 ## Certifications
-Artificial Intelligence Engineer <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
+- Artificial Intelligence Engineer <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
 
-Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png" width="40" height="15"> 
+- Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png" width="40" height="15"> 
   
-Data Science <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
+- Data Science <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
   
-Machine Learning  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
+- Machine Learning  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
   
-Deep Learning <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
+- Deep Learning <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
   
-Natural Language Processing <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
+- Natural Language Processing <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
 
 ## Skills and Strengths
 - Dedicated towards Work, Innovative and commitment to the task at hand.
