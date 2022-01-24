@@ -20,8 +20,7 @@ GPA 8.80
 ### **Junior Data Scientist**
 <a href="https://zummitlabs.com/">Zummit Infolabs</a>
 
-Working with the experienced team on real time projects based on Artificial Intelligence.
-Project : Prostate Cancer Detection
+Working with the experienced team on real time projects based on Artificial Intelligence.Currently working on the Prostate Cancer Detection Project
 
 ## Certifications
 - Artificial Intelligence Engineer <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
