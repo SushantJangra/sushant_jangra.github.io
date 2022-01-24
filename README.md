@@ -1,35 +1,65 @@
 ## Portfolio
 
-I am pursuing B.Tech in Compter Science Engineering(Final Year) from TITS Bhiwani. I have hands on experience working with Data Science and Artificial Intelligence. I have good knowledege of Python Language.
+I am pursuing B.Tech in Compter Science from TITS Bhiwani. I have hands on experience working with Pyhton on Data Science and Artificial Intelligence. I have good knowledege of AI and ML Algorithms. 
 
 ## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="10" height="10">
+- Data Structure and Algorithms
+- Artificial Intelligence 
+- Data Sciences
+- Machine Learning
+- Deep Learning
 
-```markdown
-Syntax highlighted code block
+## Education
+### **The Technological Institute of Textile and Sciences, Bhiwani**
+### B.Tech Computer Science (2018-2022)
+GPA 8.80 
+ 
+## Internship 
+### **Junior Data Scientist**
+### at https://zummitlabs.com
+Working with the experienced team on real time projects based on Artificial Intelligence.
 
-# Header 1
-## Header 2
-### Header 3
+### Certificates
+Artificial Intelligence Engineer <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
 
-- Bulleted
-- List
+Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png" width="40" height="15"> 
+  
+Data Science <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
+  
+Machine Learning  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
+  
+Deep Learning <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
+  
+Natural Language Processing <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Simplilearn_logo.png" width="50" height="20">
 
-1. Numbered
-2. List
+## Skills and Strengths
+- Dedicated towards Work, Innovative and commitment to the task at hand.
+- Friendly nature and compatibility with all kind of people.
+- Enthusiastic, Punctual, Excellent Team Work and Hard Working.
+- Greater flexibility and adoptability towards problem solving.
 
-**Bold** and _Italic_ and `Code` text
+## Projects
+### MovieLens Case Study
+Domain : Data Science
+Objective : Data analysis using the Exploratory Data Analysis Technique. Finding the feature affecting the ratings of any particular movie and build a model to predict the movie ratings.
+  
+### Movie Recommender System
+Domain : Machine Learning
+Objective : Movie Recommendation System provide a mechanism to assist users in classifying user with similar interests.
+  
+### Facial Emotion Detection :
+Domain : Deep Learning
+Objective : Facial Emotion Recognition (FER) is the technology that analyses facial expressions from the static images in order to reveal information on one's emotional state
+  
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SushantJangra/sushant_jangra.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
+  
+  
+  
+  
+  
+  
+  
+  
