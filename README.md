@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/SushantJangra/sushant_jangra.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am pursuing B.Tech in Compter Science Engineering(Final Year) from TITS Bhiwani. I have hands on experience working with Data Science and Artificial Intelligence. I have good knowledege of Python Language.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Skills
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
