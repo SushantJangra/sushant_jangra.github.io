@@ -43,14 +43,17 @@ Natural Language Processing <img src="https://upload.wikimedia.org/wikipedia/com
 ## Projects
 ### MovieLens Case Study
 Domain : Data Science
+
 Objective : Data analysis using the Exploratory Data Analysis Technique. Finding the feature affecting the ratings of any particular movie and build a model to predict the movie ratings.
   
 ### Movie Recommender System
 Domain : Machine Learning
+
 Objective : Movie Recommendation System provide a mechanism to assist users in classifying user with similar interests.
   
 ### Facial Emotion Detection :
 Domain : Deep Learning
+
 Objective : Facial Emotion Recognition (FER) is the technology that analyses facial expressions from the static images in order to reveal information on one's emotional state
   
 
