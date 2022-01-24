@@ -18,7 +18,7 @@ GPA 8.80
  
 ## Internship 
 ### **Junior Data Scientist**
-<a href="https://zummitlabs.com/">Zummit Infolabs</a>
+at <a href="https://zummitlabs.com/">Zummit Infolabs</a>
 Working with the experienced team on real time projects based on Artificial Intelligence.
 
 ### Certifications
