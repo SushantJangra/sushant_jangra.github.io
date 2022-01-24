@@ -12,10 +12,12 @@ I am pursuing B.Tech in Compter Science from TITS Bhiwani. I have hands on exper
 - Deep Learning
 
 ## Education
-### **The Technological Institute of Textile and Sciences, Bhiwani**
+### **The Technological Institute of Textile and Sciences, Bhiwani** 
+<a href="https://titsbhiwani.ac.in/">visit</a>
 #### B.Tech Computer Science (2018-2022)
 GPA 8.80 
- 
+
+
 ## Internship 
 ### **Junior Data Scientist**
 <a href="https://zummitlabs.com/">Zummit Infolabs</a>
