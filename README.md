@@ -13,7 +13,7 @@ I am pursuing B.Tech in Compter Science from TITS Bhiwani. I have hands on exper
 
 ## Education
 ### **The Technological Institute of Textile and Sciences, Bhiwani**
-### B.Tech Computer Science (2018-2022)
+#### B.Tech Computer Science (2018-2022)
 GPA 8.80 
  
 ## Internship 
